@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/sagisk/Matrix-Computations
 
 ### Support or Contact
 
-If you want to make a contribution, have a suggestion or noticed some error contact me via [mail](tone.menu@mail.ru).
+If you want to make a contribution, have a suggestion or noticed some error contact me via [mail](mailto:tone.menu@mail.ru).
 
 ```markdown
 Syntax highlighted code block
